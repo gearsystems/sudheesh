@@ -11,8 +11,9 @@ relative_permalinks: true
 # Setup
 title:               Sudheesh Singanamalla
 tagline:             'Personalized Diary'
-description:         
-url:                 http://gearsystems.github.io/sudheesh
+description:
+url: 				 http://gearsystems.github.io/       
+baseurl:             /sudheesh/
 paginate:            5
 
 # About/contact
@@ -24,4 +25,4 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:           https://github.com/gearsystems/sudheesh
+  repo:              https://github.com/gearsystems/sudheesh
