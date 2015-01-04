@@ -1,0 +1,27 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Sudheesh Singanamalla
+tagline:             'Personalized Diary'
+description:         
+url:                 http://gearsystems.github.io/sudheesh
+paginate:            5
+
+# About/contact
+author:
+  name:              Sudheesh Singanamalla
+  url:               https://twitter.com/sudheesh001
+  email:             sudheesh95@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:           https://github.com/gearsystems/sudheesh
