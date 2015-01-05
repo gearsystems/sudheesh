@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Sudheesh Singanamalla
 tagline:             'Personalized Diary'
-description:
+description: 		 'Sudheeshs blog that is maintained as a personal diary as a part of EPICS project for review by faculty incharge'
 url: 				 http://gearsystems.github.io/       
 baseurl:             /sudheesh/
 paginate:            5
