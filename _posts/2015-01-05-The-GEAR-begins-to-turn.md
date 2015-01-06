@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The GEAR begins to turn
+comments: True
 ---
 
 <div class="message">
