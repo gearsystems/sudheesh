@@ -12,8 +12,7 @@ relative_permalinks: true
 title:               Sudheesh Singanamalla
 tagline:             'Personalized Diary'
 description: 		 'Sudheeshs blog that is maintained as a personal diary as a part of EPICS project for review by faculty incharge'
-url: 				 http://gearsystems.github.io/       
-baseurl:             /sudheesh/
+url: 				 http://sudheesh.gearsystems.org/       
 paginate:            5
 
 # About/contact
