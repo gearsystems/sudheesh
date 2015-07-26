@@ -4,5 +4,5 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This is the blog maintained by Sudheesh Singanamalla for EPICS project GEAR Systems. 
 </p>
